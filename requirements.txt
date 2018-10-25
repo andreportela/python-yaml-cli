@@ -1,0 +1,5 @@
+# idiomatic command line interface lib
+click==7.0
+
+# YAML parser and emitter
+PyYAML==3.13
